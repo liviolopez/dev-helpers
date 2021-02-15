@@ -1,0 +1,28 @@
+# Mac generated files
+.DS_Store
+
+# Intellij
+.idea/
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+.env.test
+
+# parcel-bundler cache
+.cache
+
+# Serverless directories
+.serverless/
